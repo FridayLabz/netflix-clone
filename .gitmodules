@@ -1,6 +1,6 @@
 [submodule "netflix-clone-backend"]
 	path = netflix-clone-backend
-	url = ./netflix-clone-backend/
+	url = https://github.com/omarmmali/netflix-clone-backend
 [submodule "netflix-clone-frontend"]
 	path = netflix-clone-frontend
-	url = ./netflix-clone-frontend/
+	url = https://github.com/omarmmali/netflix-clone-frontend
