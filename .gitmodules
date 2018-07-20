@@ -1,0 +1,6 @@
+[submodule "netflix-clone-backend"]
+	path = netflix-clone-backend
+	url = ./netflix-clone-backend/
+[submodule "netflix-clone-frontend"]
+	path = netflix-clone-frontend
+	url = ./netflix-clone-frontend/
