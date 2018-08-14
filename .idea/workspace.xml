@@ -60,8 +60,8 @@
       <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/netflix-clone-frontend/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="10" column="22" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="22" />
+            <state relative-caret-position="75">
+              <caret line="7" column="22" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="22" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -69,14 +69,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="accountRead.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="accountRead.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/netflix-clone-frontend/src/pages/AccountRead/accountRead.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-619">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-              <folding>
-                <element signature="e#120#147#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="489">
+              <caret line="49" column="26" selection-start-line="49" selection-start-column="26" selection-end-line="49" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="accountRead.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/netflix-clone-frontend/src/pages/AccountRead/AccountRead/accountRead.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="416">
+              <caret line="62" column="33" selection-start-line="62" selection-start-column="33" selection-end-line="62" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -84,8 +90,8 @@
       <file leaf-file-name="Profile.jsx" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/netflix-clone-frontend/src/pages/Profile/Profile.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4957">
-              <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+            <state relative-caret-position="255">
+              <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -96,7 +102,7 @@
       <file leaf-file-name="updateProfile.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/netflix-clone-frontend/src/pages/Update/updateProfile.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="782">
+            <state relative-caret-position="510">
               <caret line="34" column="25" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
             </state>
           </provider>
@@ -105,7 +111,7 @@
       <file leaf-file-name="Register.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/netflix-clone-frontend/src/pages/Register/Register.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="333">
+            <state relative-caret-position="1410">
               <caret line="97" column="23" lean-forward="true" selection-start-line="97" selection-start-column="23" selection-end-line="97" selection-end-column="36" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
@@ -238,6 +244,15 @@
               <item name="netflix-clone-frontend" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="AccountRead" type="462c0819:PsiDirectoryNode" />
+              <item name="AccountRead" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="netflix-clone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="netflix-clone" type="462c0819:PsiDirectoryNode" />
+              <item name="netflix-clone-frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
               <item name="Profile" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -274,14 +289,14 @@
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/netflix-clone-frontend/src/pages/AccountRead" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/netflix-clone-frontend/src/pages/" />
       <recent name="$PROJECT_DIR$/netflix-clone-frontend/src" />
       <recent name="$PROJECT_DIR$/netflix-clone-frontend/public/res/" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/netflix-clone-frontend/src/pages/AccountRead" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -316,11 +331,12 @@
       <workItem from="1534001823720" duration="589000" />
       <workItem from="1534002429094" duration="6735000" />
       <workItem from="1534172920958" duration="5074000" />
+      <workItem from="1534220285965" duration="332000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58281000" />
+    <option name="totallyTimeSpent" value="58613000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
@@ -358,13 +374,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/netflix-clone-frontend/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="102" column="46" selection-start-line="102" selection-start-column="46" selection-end-line="102" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/netflix-clone-backend/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -549,7 +558,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/netflix-clone-frontend/src/pages/Register/Register.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
+        <state relative-caret-position="1410">
           <caret line="97" column="23" lean-forward="true" selection-start-line="97" selection-start-column="23" selection-end-line="97" selection-end-column="36" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
@@ -559,8 +568,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/netflix-clone-frontend/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="22" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="22" />
+        <state relative-caret-position="75">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="22" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
@@ -569,8 +578,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/netflix-clone-frontend/src/pages/Profile/Profile.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4957">
-          <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+        <state relative-caret-position="255">
+          <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
@@ -579,18 +588,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/netflix-clone-frontend/src/pages/Update/updateProfile.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
+        <state relative-caret-position="510">
           <caret line="34" column="25" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/netflix-clone-frontend/src/pages/AccountRead/accountRead.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-619">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="e#120#147#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="489">
+          <caret line="49" column="26" selection-start-line="49" selection-start-column="26" selection-end-line="49" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netflix-clone-frontend/src/pages/AccountRead/AccountRead/accountRead.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="62" column="33" selection-start-line="62" selection-start-column="33" selection-end-line="62" selection-end-column="33" />
         </state>
       </provider>
     </entry>
